@@ -1,7 +1,7 @@
 Python==3.6.0
 jupyter==1.0.0
 oauth2==1.5.211
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.19.2
 networkx==2.4
 omterms==0.1.4 
